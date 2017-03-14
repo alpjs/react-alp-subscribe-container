@@ -1,5 +1,7 @@
 # react-alp-subscribe-container [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/react-alp-subscribe-container.svg)](https://greenkeeper.io/)
+
 react container to subscribe on mount and unsubscribe on unmount on an event in websocket
 
 example: `myname` will emit `subscribe:myname` and `unsubscribe:myname`.
